@@ -6,4 +6,6 @@ Remove tasks from the list
 Toggle between completed and not completed tasks
 Easily remove items from the list
 Automatic local storage saving
-Live Site []
+
+
+Live Site [https://anoshasohail.github.io/To-Do-List/]
